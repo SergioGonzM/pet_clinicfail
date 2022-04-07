@@ -102,6 +102,13 @@ defmodule PetClinic.PetClinicService do
     Pet.changeset(pet, attrs)
   end
 
+
+  def list_pets_by_type(type) do
+    Repo.all(from p in Pet, where: p.type == ^type)
+  end
+
+
+
   alias PetClinic.PetClinicService.PetHealthExpert
 
   @doc """
