@@ -26,3 +26,10 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ![image](https://user-images.githubusercontent.com/99292588/162051510-729740e6-864c-47e3-bf8e-dc60a8d0880d.png)
 
+# Ejercicio 2 Listing Pet Snake
+
+![image](https://user-images.githubusercontent.com/99292588/162104474-e6b8b234-c52c-4997-83e4-cc976b97e015.png)
+
+
+
+
