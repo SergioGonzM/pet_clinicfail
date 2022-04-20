@@ -9,6 +9,8 @@ defmodule PetClinic.PetClinicService.PetHealthExpert do
     field :sex, :string
     field :specialities, :string
 
+    has_many :patients, PetClinic.PetClinicService.Pet
+
     timestamps()
   end
 
